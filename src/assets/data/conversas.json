@@ -1,0 +1,56 @@
+[
+  {
+    "id": "c5232f1b7c1-7d4a-4b9e-a9d9-2b4c54f44d7e",
+    "from": "Luana Silva",
+    "date": "Mon Jun 17 2024 12:45:00 GMT-0300 (Horário Padrão de Brasília)",
+    "img": "https://i.pravatar.cc/150?u=mariana@marketoid.com",
+    "msg": "Olá, como você está? Estou muito feliz em estar aqui!",
+    "read": true,
+    "unreadCount": 5
+  },
+  {
+    "id": "9a1b0bf5-6cac-4ea6-a0fb-bf139df9a2cf",
+    "from": "João Aguiar",
+    "date": "Wed Jun 14 2024 01:23:35 GMT+0200 (Central European Summer Time)",
+    "img": "https://i.pravatar.cc/150?u=jaguiar@marketoid.com",
+    "msg": "Fala irmão beleza? queria ver contigo uma parada",
+    "read": true,
+    "unreadCount": 2
+  },
+  {
+    "id": "16d121b0-bad3-475a-a1d3-57060a25e3c2",
+    "from": "Grupo do Trabalho",
+    "date": "Sat Jun 12 2024 13:09:00 GMT+0100 (Central European Standard Time)",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDVSXhcqPkO7MC2H_cLklRyDmtdrOjjJ7O0A&s",
+    "msg": "Rafael: Estou muito animado para o fim de semana! espero que nao tenha trabalho extra ",
+    "read": true,
+    "unreadCount": 0
+  },
+  {
+    "id": "594d6cfc-5f69-4e63-ba2b-6eb318fc5d7d",
+    "from": "Beatriz Bonfim",
+    "date": "Tue Jun 5 2024 17:58:09 GMT+0100 (Central European Standard Time)",
+    "img": "https://i.pinimg.com/236x/90/75/d3/9075d30cc40a3015c339d850675926af.jpg",
+    "msg": "Vou ao cinema hoje à noite, você quer ir?",
+    "read": true,
+    "unreadCount": 1
+  },
+  {
+    "id": "d90b9cac-aca0-4b8f-9ac5-3b7c228e3657",
+    "from": "Mariana Mendes",
+    "date": "Sat Jun 1 2024 08:09:38 GMT+0100 (Central European Standard Time)",
+    "img": "https://static1.purepeople.com.br/articles/1/35/04/81/@/4004592-veronica-juhlia-ficer-e-uma-garota-coj-580x0-1.jpg",
+    "msg": "Passei por la e não vi ninguem, eles devem abrir so semana que vem",
+    "read": true,
+    "unreadCount": 0
+  },
+  {
+    "id": "0078b06e-3848-47de-b080-de9506b94a60",
+    "from": "Grupo da familia",
+    "date": "Fri Dec 24 2023 13:09:00 GMT+0100 (Central European Standard Time)",
+    "img": "https://escoladainteligencia.com.br/wp-content/uploads/2021/12/familia-saudavel-aprenda-boas-praticas-de-convivencia.jpg",
+    "msg": "Rafael: Feliz Natal para todos!",
+    "read": true,
+    "unreadCount": 0
+  }
+]
